@@ -53,10 +53,4 @@ Representative research areas and projects:
 - Develop more open-source security tools and frameworks  
 - Participate in CTFs, security competitions, and vulnerability research projects  
 
----
-
-## 📈 GitHub Stats (Optional)
-
-```md
-![Killer’s GitHub stats](https://github-readme-stats.vercel.app/api?username=1813245997&show_icons=true&theme=dark)
 
